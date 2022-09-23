@@ -1,1 +1,2 @@
-[苏苏维基百科](README.md)
+* [首页](zh-cn/)
+* [指南](zh-cn/guide)
